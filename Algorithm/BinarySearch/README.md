@@ -94,7 +94,9 @@ if (left == nums.length) return -1;
 return nums[left] == target ? left : -1;
 ```
 
-3.指针的跳动的和上一个算法的不一样，这里的是left=mid+1
+3.指针的跳动的和上一个算法的不一样，这里的是left=mid+1，right=mid。
+
+因为我们的搜索区间是[left,right)左闭右开，
 
 
 

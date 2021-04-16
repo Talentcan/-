@@ -276,31 +276,5 @@ int right_bound(int[] nums, int target) {
 
 为二分查找labuladong写了一首诗
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](../BinarySearch/图片1.jpg)
 
